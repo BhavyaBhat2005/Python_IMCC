@@ -4,8 +4,9 @@
 
 #3.print the difference of highest and smallest elements 
 
-#4.append a new eleement in the list which is half of the item of third position in the list 
+#4.append a new element in the list which is half of the item of third position in the list 
 
 #no using looping, for etc
 
 numbers = [1,2,3,4,5,6,7,8,9,10]
+print(sum(numbers[-4:]))
